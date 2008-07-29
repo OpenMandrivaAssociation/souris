@@ -1,7 +1,7 @@
 Summary:	Tool to visualize mouse clicks
 Name:		souris
 Version:	0.2
-Release:	%mkrel 1
+Release:	%mkrel 3
 Source0:	%{name}-%{version}.tgz
 License:	GPLv2+
 Group:		Development/X11

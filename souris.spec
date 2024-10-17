@@ -5,7 +5,7 @@ Release:	%mkrel 5
 Source0:	%{name}-%{version}.tgz
 License:	GPLv2+
 Group:		Development/X11
-Url:		http://www.duberga.net/souris/
+Url:		https://www.duberga.net/souris/
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	gtk2-devel libxtst-devel
 

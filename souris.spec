@@ -7,6 +7,11 @@ License:	GPLv2+
 Group:		Development/X11
 Url:		https://www.duberga.net/souris/
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	gtk2-devel libxtst-devel
 
 %description
